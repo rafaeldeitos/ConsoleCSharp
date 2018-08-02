@@ -1,0 +1,7 @@
+C:\Projeto ASPNET\SchoolOfNet\C#\Console\ConsoleCSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csprojResolveAssemblyReference.cache
+C:\Projeto ASPNET\SchoolOfNet\C#\Console\ConsoleCSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.csproj.CoreCompileInputs.cache
+C:\Projeto ASPNET\SchoolOfNet\C#\Console\ConsoleCSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe.config
+C:\Projeto ASPNET\SchoolOfNet\C#\Console\ConsoleCSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.exe
+C:\Projeto ASPNET\SchoolOfNet\C#\Console\ConsoleCSharp\ConsoleCSharp\bin\Debug\ConsoleCSharp.pdb
+C:\Projeto ASPNET\SchoolOfNet\C#\Console\ConsoleCSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.exe
+C:\Projeto ASPNET\SchoolOfNet\C#\Console\ConsoleCSharp\ConsoleCSharp\obj\Debug\ConsoleCSharp.pdb
